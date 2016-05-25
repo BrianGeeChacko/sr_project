@@ -1,0 +1,58 @@
+<gui>
+	<button>
+		<name>homeBtn</name>
+		<command>setName</command>
+		<scale>0.1</scale>
+		<text>Home</text>
+		<pos x="-1" y="0" z="-0.1"/>
+	</button>
+	
+	<button>
+		<name>aboutUsBtn</name>
+		<command>setName</command>
+		<scale>0.1</scale>
+		<text>About Us</text>
+		<pos x="-1" y="0" z="-0.2"/>
+	</button>
+
+	<button>
+		<name>roomsBtn</name>
+		<command>setName</command>
+		<scale>0.1</scale>
+		<text>Rooms</text>
+		<pos x="-1" y="0" z="-0.3"/>
+	</button>
+
+	<button>
+		<name>servicesBtn</name>
+		<command>setName</command>
+		<scale>0.1</scale>
+		<text>Services</text>
+		<pos x="-1" y="0" z="-0.4"/>
+	</button>	
+
+	<button>
+		<name>galleryBtn</name>
+		<command>setName</command>
+		<scale>0.1</scale>
+		<text>Gallery</text>
+		<pos x="-1" y="0" z="-0.5"/>
+	</button>	
+
+	<button>
+		<name>tourBtn</name>
+		<command>setName</command>
+		<scale>0.1</scale>
+		<text>Tour</text>
+		<pos x="-1" y="0" z="-0.6"/>
+	</button>	
+
+	<button>
+		<name>contactBtn</name>
+		<command>setName</command>
+		<scale>0.1</scale>
+		<text>Contact</text>
+		<pos x="-1" y="0" z="-0.7"/>
+	</button>			
+	
+</gui>
